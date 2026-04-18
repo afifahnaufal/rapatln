@@ -1,0 +1,16 @@
+# FRONTEND (Flutter/Android)
+frontend/build/
+frontend/.dart_tool/
+frontend/.idea/
+frontend/.gradle/
+frontend/android/.gradle/
+frontend/android/build/
+frontend/android/app/build/
+frontend/android/gradle/wrapper/dists/
+
+# GENERAL
+node_modules/
+dist/
+build/
+.DS_Store
+Thumbs.db
